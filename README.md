@@ -1,4 +1,4 @@
-# JavaWebProxyServer
+# Java Web Proxy Server
 
 Keys:
 * Web cache replacement
