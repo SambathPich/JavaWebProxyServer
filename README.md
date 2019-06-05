@@ -30,3 +30,8 @@ Supported features:
 * Setting for the proxy server’s cache replacement algorithm from the command line
 * Setting for the proxy server’s listening port from the command
 * Cache report: total http request, total cache hits, total cache missed, cache hit rate.
+
+Default settings:
+* Port: 9999
+* Threshold: 20000
+* Max-webpages: 20
